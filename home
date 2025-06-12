@@ -1,0 +1,98 @@
+<div style="width: 1440; height: 6550; position: relative; background: black; overflow: hidden">
+    <div style="width: 378px; height: 454px; left: 985px; top: 4212px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
+    <div style="width: 378px; height: 454px; left: 531px; top: 4212px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
+    <div style="width: 378px; height: 454px; left: 77px; top: 4212px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
+    <div style="width: 378px; height: 454px; left: 985px; top: 3686px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
+    <div style="width: 378px; height: 454px; left: 531px; top: 3686px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
+    <div style="width: 452px; height: 138px; left: 81px; top: 2898px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: -44.900001525878906px 44.900001525878906px 44.900001525878906px rgba(255, 255, 255, 0.10) inset; border-radius: 18px; backdrop-filter: blur(44.90px)"></div>
+    <div style="width: 732.42px; height: 183.22px; left: 698.91px; top: 2725px; position: absolute; transform: rotate(26deg); transform-origin: top left; background: black; border-radius: 9999px; border: 6px white solid"></div>
+    <div style="width: 732.42px; height: 183.22px; left: 614px; top: 3047.15px; position: absolute; transform: rotate(-28deg); transform-origin: top left; background: black; border-radius: 9999px; border: 6px white solid"></div>
+    <div style="width: 546px; height: 537px; left: 715px; top: 2682px; position: absolute; background: black; border-radius: 9999px; border: 6px white solid"></div>
+    <div style="width: 612px; height: 392px; left: 81px; top: 1806px; position: absolute; background: black; border-radius: 18px; border: 3px white solid"></div>
+    
+    <img class="luna" style="width: 1440px; height: 513px; left: 1440px; top: 774px; position: absolute; transform: rotate(180deg); transform-origin: top left" src="C:\Users\camil\Downloads\a421cc043be21ac3904311eb1c07c297828458ce.jpg" />
+    
+    <div style="width: 563px; left: 439px; top: 826px; position: absolute; text-align: center; color: white; font-size: 48px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Espaço de Aprendizagem
+  <br/>Com a NASA em casa</div>
+    
+  <div style="width: 1192px; height: 563px; left: 124px; top: 1061px; position: absolute; background: rgba(235.03, 235.03, 235.03, 0.39); box-shadow: -44.900001525878906px 44.900001525878906px 44.900001525878906px rgba(255, 255, 255, 0.10) inset; backdrop-filter: blur(44.90px)"></div>
+    
+  <img style="width: 422px; height: 400px; left: 162px; top: 1126px; position: absolute" src="C:\Users\camil\Downloads\f4e4b0a4b4e360453f0e1cde44eaeb92d0ded87d.jpg" />
+    
+  <img class="quadro2" style="width: 507px; height: 300px; left: 134px; top: 1852px; position: absolute; box-shadow: 0px 4px 18px white; border-radius: 18px" src="C:\Users\camil\Downloads\e757f1c3c6615d77d2c7a9cdf6b63a82a2421c22.png" />
+    <div style="width: 239px; height: 80px; left: 132px; top: 3328px; position: absolute; background: #D9D9D9; box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
+   
+    <img class="banner1" style="width: 1196px; height: 408px; left: 122px; top: 4818px; position: absolute" src="C:\Users\camil\Downloads\3daa516f835cf710eb46540f5635c58b5da6424c.jpg" />
+    
+    <div style="width: 984px; height: 0px; left: 228px; top: 5588px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
+    <div style="left: 167px; top: 135px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Educação</div>
+    <div style="left: 309px; top: 135px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">estagiário</div>
+    <div style="left: 449px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Aprender</div>
+    <div style="left: 585px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">ensinar</div>
+    <div style="left: 699px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">notícias</div>
+    <div style="left: 817px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Eventos</div>
+    <div style="left: 937px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Compartilhar</div>
+    <div style="left: 1116px; top: 135px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">NASA OSTEM</div>
+    
+    <img class="logo" style="width: 417px; height: 100px; left: 0px; top: 0px; position: absolute" src="C:\Users\camil\Downloads\1981642c30af46f2fcd44c9a9c6ea161bc223ec2.png" />
+    
+    <div style="width: 956px; height: 0px; left: 242px; top: 201.02px; position: absolute; outline: 3px white solid; outline-offset: -1.50px"></div>
+    <div style="width: 196px; height: 66px; left: 1198px; top: 17px; position: absolute; background: #263976; border-radius: 21px"></div>
+    <div style="left: 1259px; top: 36px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 700; line-height: 29.26px; word-wrap: break-word">LOGIN</div>
+    <div style="width: 612px; height: 392px; left: 748px; top: 1806px; position: absolute; background: black; border-radius: 18px; border: 3px white solid"></div>
+    
+    <img class="quadro1" style="width: 507px; height: 300px; left: 800px; top: 1852px; position: absolute; box-shadow: 0px 4px 18px white; border-radius: 18px" src="C:\Users\camil\Downloads\d011ca1f8c8424ef1f77d445f9a477c8232c920d.png" />
+    
+    <div style="width: 612px; height: 392px; left: 81px; top: 2254px; position: absolute; background: black; border-radius: 18px; border: 3px white solid"></div>
+    
+    <img class="quadro3" style="width: 507px; height: 300px; left: 134px; top: 2300px; position: absolute; box-shadow: 0px 4px 18px white; border-radius: 18px" src="C:\Users\camil\Downloads\6a53cf3341efdbb8c7b50c415060138a038eca03.png" />
+    
+    <div style="width: 452px; height: 138px; left: 828px; top: 2381px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: -44.900001525878906px 44.900001525878906px 44.900001525878906px rgba(255, 255, 255, 0.10) inset; border-radius: 18px; backdrop-filter: blur(44.90px)"></div>
+    <div style="left: 934px; top: 2428px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Instrument Sans; font-weight: 700; line-height: 43.88px; word-wrap: break-word">Conheça mais </div>
+    <div style="left: 661px; top: 1681px; position: absolute; text-align: center; color: white; font-size: 48px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Videos</div>
+    <div style="left: 168px; top: 2922px; position: absolute; text-align: center; color: white; font-size: 64px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Atividades</div>
+    
+    <img class="planeta" style="width: 541px; height: 527px; left: 720px; top: 2682px; position: absolute" src="C:\Users\camil\Downloads\828cd2b6312d0ff8ccb9ab61d482f8384d589f50.png" />
+    
+    <div style="width: 192px; height: 39px; left: 155px; top: 3346px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries K-2</div>
+    <div style="width: 239px; height: 80px; left: 444px; top: 3328px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
+    <div style="width: 192px; height: 39px; left: 467px; top: 3343px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries 3-5</div>
+    <div style="width: 239px; height: 80px; left: 756px; top: 3328px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
+    <div style="width: 192px; height: 39px; left: 780px; top: 3343px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries 6-8</div>
+    <div style="width: 239px; height: 80px; left: 1068px; top: 3328px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
+    <div style="width: 192px; height: 39px; left: 1093px; top: 3346px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries 9-12</div>
+    <div style="width: 1094px; height: 134px; left: 173px; top: 3480px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; word-wrap: break-word">Você está interessado em espaço, robôs, construção e exploração? No Laboratório de Propulsão a Jato da NASA, construímos robôs que exploram o espaço e você pode explorar o espaço conosco em casa! Encontre projetos para construir um rover de papelão, assista a vídeos sobre pouso em Marte, construa sua própria missão espacial e aprenda algo novo sobre a Lua. Além disso, explore mais nos links abaixo!</div>
+    
+    <img class="f2" style="width: 354px; height: 209px; left: 543px; top: 3698px; position: absolute; border-radius: 13px" src="C:\Users\camil\Downloads\0f83b5884f2a12f83e225af3956cfe709b195a4d.png" />
+    <img class="f3" style="width: 354px; height: 209px; left: 997px; top: 3698px; position: absolute; border-radius: 13px" src="C:\Users\camil\Downloads\bf8709a2fa1d5c61ece79b5a75f7644632e964ba.png" />
+    <img class="f4" style="width: 354px; height: 209px; left: 89px; top: 4220px; position: absolute; border-radius: 13px" src="C:\Users\camil\Downloads\bc13a3b585c427cd7449a49eadb3a22ca77feaf4.png" />
+    <img class="f5" style="width: 354px; height: 209px; left: 543px; top: 4220px; position: absolute; border-radius: 13px" src="C:\Users\camil\Downloads\1c3aee600938f261ede8092b652c383d7f6e190e.png" />
+    <img class="f6" style="width: 354px; height: 209px; left: 997px; top: 4220px; position: absolute; border-radius: 13px" src="C:\Users\camil\Downloads\060760e4bd4a631405f14e70521bdd0a0ee20b36.png" />
+    
+    <div style="width: 378px; height: 454px; left: 77px; top: 3686px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
+    
+    <img class="f1" style="width: 354px; height: 196px; left: 89px; top: 3698px; position: absolute; border-radius: 13px" src="C:\Users\camil\Downloads\6439e1d1ba1db92f486db2b440bd3a7545b1a924.png" />
+    
+    <div style="width: 284px; left: 124px; top: 3956px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Faça um sistema solar em escala</div>
+    <div style="width: 300px; height: 143px; left: 570px; top: 3956px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Desafio estudantil da missão a Marte</div>
+    <div style="width: 267px; left: 133px; top: 4491px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Construa com espaguete</div>
+    <div style="width: 335px; height: 132px; left: 1006px; top: 3956px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Construa um rover e muito mais com formas</div>
+    <div style="width: 268px; height: 128px; left: 586px; top: 4478px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Tamanho e distância do sistema solar</div>
+    <div style="width: 296px; height: 139px; left: 1026px; top: 4471px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Construa um foguete e muito mais com formas</div>
+    <div style="width: 752px; height: 80px; left: 344px; top: 4901px; position: absolute; text-align: center; color: white; font-size: 64px; font-family: Doppio One; font-weight: 400; word-wrap: break-word">Vamos explorar juntos</div>
+    <div style="width: 285px; height: 96px; left: 577px; top: 5030px; position: absolute; background: white; border-radius: 13px"></div>
+    <div style="left: 639px; top: 5055px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Doppio One; font-weight: 400; word-wrap: break-word">COMEÇAR</div>
+    <div style="width: 308px; height: 64px; left: 566px; top: 5375px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Perguntas frequentes </div>
+    <div style="left: 256px; top: 5511px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Como posso gerenciar o aprendizado do meu filho enquanto trabalho em casa?</div>
+    <div style="left: 256px; top: 5631px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Tenho filhos de idades variadas. Como posso envolvê-los todos?</div>
+    <div style="width: 984px; height: 0px; left: 228px; top: 5724px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
+    <div style="width: 984px; height: 0px; left: 228px; top: 5848px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
+    <div style="width: 984px; height: 0px; left: 228px; top: 5972px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
+    <div style="left: 256px; top: 5767px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Se eu não posso chegar a tudo, o que é mais importante?</div>
+    <div style="left: 256px; top: 5895px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">E se eu não tiver todos os materiais listados para uma atividade?</div>
+    <div style="width: 984px; height: 0px; left: 228px; top: 6220px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
+    <div style="width: 984px; height: 0px; left: 228px; top: 6102px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
+    <div style="left: 256px; top: 6019px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Que perguntas devo fazer ao meu filho sobre o que ele está fazendo?</div>
+    <div style="left: 256px; top: 6145px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Como saberei quando meu filho tem a resposta certa?</div>
+    <div style="width: 634px; height: 419px; left: 637px; top: 1143px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: JejuGothic; font-weight: 400; word-wrap: break-word">Explore a maravilha da exploração espacial em casa. Aqui você pode descobrir como fazer foguetes, rovers de Marte e módulos de pouso lunares com materiais que você tem em casa. Role para baixo para explorar atividades educacionais que as famílias podem fazer em casa, tutoriais em vídeo (disponíveis com legendas em espanhol) e um FAQ. Certifique-se de verificar novamente. Estamos adicionando mais o tempo todo!</div>
+</div>
