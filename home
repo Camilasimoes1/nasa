@@ -1,98 +1,874 @@
-<div style="width: 1440; height: 6550; position: relative; background: black; overflow: hidden">
-    <div style="width: 378px; height: 454px; left: 985px; top: 4212px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
-    <div style="width: 378px; height: 454px; left: 531px; top: 4212px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
-    <div style="width: 378px; height: 454px; left: 77px; top: 4212px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
-    <div style="width: 378px; height: 454px; left: 985px; top: 3686px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
-    <div style="width: 378px; height: 454px; left: 531px; top: 3686px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
-    <div style="width: 452px; height: 138px; left: 81px; top: 2898px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: -44.900001525878906px 44.900001525878906px 44.900001525878906px rgba(255, 255, 255, 0.10) inset; border-radius: 18px; backdrop-filter: blur(44.90px)"></div>
-    <div style="width: 732.42px; height: 183.22px; left: 698.91px; top: 2725px; position: absolute; transform: rotate(26deg); transform-origin: top left; background: black; border-radius: 9999px; border: 6px white solid"></div>
-    <div style="width: 732.42px; height: 183.22px; left: 614px; top: 3047.15px; position: absolute; transform: rotate(-28deg); transform-origin: top left; background: black; border-radius: 9999px; border: 6px white solid"></div>
-    <div style="width: 546px; height: 537px; left: 715px; top: 2682px; position: absolute; background: black; border-radius: 9999px; border: 6px white solid"></div>
-    <div style="width: 612px; height: 392px; left: 81px; top: 1806px; position: absolute; background: black; border-radius: 18px; border: 3px white solid"></div>
-    
-    <img class="luna" style="width: 1440px; height: 513px; left: 1440px; top: 774px; position: absolute; transform: rotate(180deg); transform-origin: top left" src="https://github.com/Camilasimoes1/nasa/blob/main/a421cc043be21ac3904311eb1c07c297828458ce.jpg?raw=true" />
-    
-    <div style="width: 563px; left: 439px; top: 826px; position: absolute; text-align: center; color: white; font-size: 48px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Espaço de Aprendizagem
-  <br/>Com a NASA em casa</div>
-    
-  <div style="width: 1192px; height: 563px; left: 124px; top: 1061px; position: absolute; background: rgba(235.03, 235.03, 235.03, 0.39); box-shadow: -44.900001525878906px 44.900001525878906px 44.900001525878906px rgba(255, 255, 255, 0.10) inset; backdrop-filter: blur(44.90px)"></div>
-    
-  <img class="terra" style="width: 422px; height: 400px; left: 162px; top: 1126px; position: absolute" src="https://github.com/Camilasimoes1/nasa/blob/main/f4e4b0a4b4e360453f0e1cde44eaeb92d0ded87d.jpg?raw=true" />
-    
-  <img class="quadro2" style="width: 507px; height: 300px; left: 134px; top: 1852px; position: absolute; box-shadow: 0px 4px 18px white; border-radius: 18px" src="https://github.com/Camilasimoes1/nasa/blob/main/6a53cf3341efdbb8c7b50c415060138a038eca03.png?raw=true" />
-    <div style="width: 239px; height: 80px; left: 132px; top: 3328px; position: absolute; background: #D9D9D9; box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
-   
-    <img class="banner1" style="width: 1196px; height: 408px; left: 122px; top: 4818px; position: absolute" src="https://github.com/Camilasimoes1/nasa/blob/main/3daa516f835cf710eb46540f5635c58b5da6424c.jpg?raw=true" />
-    
-    <div style="width: 984px; height: 0px; left: 228px; top: 5588px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
-    <div style="left: 167px; top: 135px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Educação</div>
-    <div style="left: 309px; top: 135px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">estagiário</div>
-    <div style="left: 449px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Aprender</div>
-    <div style="left: 585px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">ensinar</div>
-    <div style="left: 699px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">notícias</div>
-    <div style="left: 817px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Eventos</div>
-    <div style="left: 937px; top: 136px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">Compartilhar</div>
-    <div style="left: 1116px; top: 135px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; line-height: 29.26px; word-wrap: break-word">NASA OSTEM</div>
-    
-    <img class="logo" style="width: 417px; height: 100px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/nasa/blob/main/1981642c30af46f2fcd44c9a9c6ea161bc223ec2.png?raw=true" />
-    
-    <div style="width: 956px; height: 0px; left: 242px; top: 201.02px; position: absolute; outline: 3px white solid; outline-offset: -1.50px"></div>
-    <div style="width: 196px; height: 66px; left: 1198px; top: 17px; position: absolute; background: #263976; border-radius: 21px"></div>
-    <div style="left: 1259px; top: 36px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 700; line-height: 29.26px; word-wrap: break-word">LOGIN</div>
-    <div style="width: 612px; height: 392px; left: 748px; top: 1806px; position: absolute; background: black; border-radius: 18px; border: 3px white solid"></div>
-    
-    <img class="quadro1" style="width: 507px; height: 300px; left: 800px; top: 1852px; position: absolute; box-shadow: 0px 4px 18px white; border-radius: 18px" src="https://github.com/Camilasimoes1/nasa/blob/main/e757f1c3c6615d77d2c7a9cdf6b63a82a2421c22.png?raw=true" />
-    
-    <div style="width: 612px; height: 392px; left: 81px; top: 2254px; position: absolute; background: black; border-radius: 18px; border: 3px white solid"></div>
-    
-    <img class="quadro3" style="width: 507px; height: 300px; left: 134px; top: 2300px; position: absolute; box-shadow: 0px 4px 18px white; border-radius: 18px" src="https://github.com/Camilasimoes1/nasa/blob/main/d011ca1f8c8424ef1f77d445f9a477c8232c920d.png?raw=true" />
-    
-    <div style="width: 452px; height: 138px; left: 828px; top: 2381px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: -44.900001525878906px 44.900001525878906px 44.900001525878906px rgba(255, 255, 255, 0.10) inset; border-radius: 18px; backdrop-filter: blur(44.90px)"></div>
-    <div style="left: 934px; top: 2428px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Instrument Sans; font-weight: 700; line-height: 43.88px; word-wrap: break-word">Conheça mais </div>
-    <div style="left: 661px; top: 1681px; position: absolute; text-align: center; color: white; font-size: 48px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Videos</div>
-    <div style="left: 168px; top: 2922px; position: absolute; text-align: center; color: white; font-size: 64px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Atividades</div>
-    
-    <img class="planeta" style="width: 541px; height: 527px; left: 720px; top: 2682px; position: absolute" src="https://github.com/Camilasimoes1/nasa/blob/main/828cd2b6312d0ff8ccb9ab61d482f8384d589f50.png?raw=true" />
-    
-    <div style="width: 192px; height: 39px; left: 155px; top: 3346px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries K-2</div>
-    <div style="width: 239px; height: 80px; left: 444px; top: 3328px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
-    <div style="width: 192px; height: 39px; left: 467px; top: 3343px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries 3-5</div>
-    <div style="width: 239px; height: 80px; left: 756px; top: 3328px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
-    <div style="width: 192px; height: 39px; left: 780px; top: 3343px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries 6-8</div>
-    <div style="width: 239px; height: 80px; left: 1068px; top: 3328px; position: absolute; background: rgba(38, 57, 118, 0.29); box-shadow: 0px 1px 9.899999618530273px white; border-radius: 6px"></div>
-    <div style="width: 192px; height: 39px; left: 1093px; top: 3346px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Istok Web; font-weight: 400; word-wrap: break-word">Séries 9-12</div>
-    <div style="width: 1094px; height: 134px; left: 173px; top: 3480px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 400; word-wrap: break-word">Você está interessado em espaço, robôs, construção e exploração? No Laboratório de Propulsão a Jato da NASA, construímos robôs que exploram o espaço e você pode explorar o espaço conosco em casa! Encontre projetos para construir um rover de papelão, assista a vídeos sobre pouso em Marte, construa sua própria missão espacial e aprenda algo novo sobre a Lua. Além disso, explore mais nos links abaixo!</div>
-    
-    <img class="f2" style="width: 354px; height: 209px; left: 543px; top: 3698px; position: absolute; border-radius: 13px" src="https://github.com/Camilasimoes1/nasa/blob/main/0f83b5884f2a12f83e225af3956cfe709b195a4d.png?raw=true" />
-    <img class="f3" style="width: 354px; height: 209px; left: 997px; top: 3698px; position: absolute; border-radius: 13px" src="https://github.com/Camilasimoes1/nasa/blob/main/6a53cf3341efdbb8c7b50c415060138a038eca03.png?raw=true" />
-    <img class="f4" style="width: 354px; height: 209px; left: 89px; top: 4220px; position: absolute; border-radius: 13px" src="https://github.com/Camilasimoes1/nasa/blob/main/bc13a3b585c427cd7449a49eadb3a22ca77feaf4.png?raw=true" />
-    <img class="f5" style="width: 354px; height: 209px; left: 543px; top: 4220px; position: absolute; border-radius: 13px" src="https://github.com/Camilasimoes1/nasa/blob/main/1c3aee600938f261ede8092b652c383d7f6e190e.png?raw=true" />
-    <img class="f6" style="width: 354px; height: 209px; left: 997px; top: 4220px; position: absolute; border-radius: 13px" src="https://github.com/Camilasimoes1/nasa/blob/main/060760e4bd4a631405f14e70521bdd0a0ee20b36.png?raw=true" />
-    
-    <div style="width: 378px; height: 454px; left: 77px; top: 3686px; position: absolute; background: white; border-radius: 13px; border: 5px #263976 solid"></div>
-    
-    <img class="f1" style="width: 354px; height: 196px; left: 89px; top: 3698px; position: absolute; border-radius: 13px" src="https://github.com/Camilasimoes1/nasa/blob/main/6439e1d1ba1db92f486db2b440bd3a7545b1a924.png?raw=true" />
-    
-    <div style="width: 284px; left: 124px; top: 3956px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Faça um sistema solar em escala</div>
-    <div style="width: 300px; height: 143px; left: 570px; top: 3956px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Desafio estudantil da missão a Marte</div>
-    <div style="width: 267px; left: 133px; top: 4491px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Construa com espaguete</div>
-    <div style="width: 335px; height: 132px; left: 1006px; top: 3956px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Construa um rover e muito mais com formas</div>
-    <div style="width: 268px; height: 128px; left: 586px; top: 4478px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Tamanho e distância do sistema solar</div>
-    <div style="width: 296px; height: 139px; left: 1026px; top: 4471px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Exo; font-weight: 400; word-wrap: break-word">Construa um foguete e muito mais com formas</div>
-    <div style="width: 752px; height: 80px; left: 344px; top: 4901px; position: absolute; text-align: center; color: white; font-size: 64px; font-family: Doppio One; font-weight: 400; word-wrap: break-word">Vamos explorar juntos</div>
-    <div style="width: 285px; height: 96px; left: 577px; top: 5030px; position: absolute; background: white; border-radius: 13px"></div>
-    <div style="left: 639px; top: 5055px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Doppio One; font-weight: 400; word-wrap: break-word">COMEÇAR</div>
-    <div style="width: 308px; height: 64px; left: 566px; top: 5375px; position: absolute; text-align: center; color: white; font-size: 36px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Perguntas frequentes </div>
-    <div style="left: 256px; top: 5511px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Como posso gerenciar o aprendizado do meu filho enquanto trabalho em casa?</div>
-    <div style="left: 256px; top: 5631px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Tenho filhos de idades variadas. Como posso envolvê-los todos?</div>
-    <div style="width: 984px; height: 0px; left: 228px; top: 5724px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
-    <div style="width: 984px; height: 0px; left: 228px; top: 5848px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
-    <div style="width: 984px; height: 0px; left: 228px; top: 5972px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
-    <div style="left: 256px; top: 5767px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Se eu não posso chegar a tudo, o que é mais importante?</div>
-    <div style="left: 256px; top: 5895px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">E se eu não tiver todos os materiais listados para uma atividade?</div>
-    <div style="width: 984px; height: 0px; left: 228px; top: 6220px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
-    <div style="width: 984px; height: 0px; left: 228px; top: 6102px; position: absolute; outline: 5px white solid; outline-offset: -2.50px"></div>
-    <div style="left: 256px; top: 6019px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Que perguntas devo fazer ao meu filho sobre o que ele está fazendo?</div>
-    <div style="left: 256px; top: 6145px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Jockey One; font-weight: 400; word-wrap: break-word">Como saberei quando meu filho tem a resposta certa?</div>
-    <div style="width: 634px; height: 419px; left: 637px; top: 1143px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: JejuGothic; font-weight: 400; word-wrap: break-word">Explore a maravilha da exploração espacial em casa. Aqui você pode descobrir como fazer foguetes, rovers de Marte e módulos de pouso lunares com materiais que você tem em casa. Role para baixo para explorar atividades educacionais que as famílias podem fazer em casa, tutoriais em vídeo (disponíveis com legendas em espanhol) e um FAQ. Certifique-se de verificar novamente. Estamos adicionando mais o tempo todo!</div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jockey One:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument Sans:wght@400;700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Istok Web:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Doppio One:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JejuGothic:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="wireframe-1">
+    		<div class="wireframe-1-child">
+    		</div>
+    		<div class="wireframe-1-item">
+    		</div>
+    		<div class="wireframe-1-inner">
+    		</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="wireframe-1-child1">
+    		</div>
+    		<div class="wireframe-1-child2">
+    		</div>
+    		<div class="ellipse-div">
+    		</div>
+    		<div class="wireframe-1-child3">
+    		</div>
+    		<div class="wireframe-1-child4">
+    		</div>
+    		<div class="wireframe-1-child5">
+    		</div>
+    		<img class="moon-space-black-background-25-icon" alt="luna" src="https://github.com/Camilasimoes1/nasa/blob/main/a421cc043be21ac3904311eb1c07c297828458ce.jpg?raw=true">
+    		
+    		<div class="espao-de-aprendizagem-container">
+      			<p class="espao-de-aprendizagem">Espaço de Aprendizagem</p>
+      			<p class="espao-de-aprendizagem">Com a NASA em casa</p>
+    		</div>
+    		<div class="wireframe-1-child6">
+    		</div>
+    		<img class="r-12-icon" alt="terra" src="https://github.com/Camilasimoes1/nasa/blob/main/f4e4b0a4b4e360453f0e1cde44eaeb92d0ded87d.jpg?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-04-170" alt="video1" src="https://github.com/Camilasimoes1/nasa/blob/main/6a53cf3341efdbb8c7b50c415060138a038eca03.png?raw=true" id="capturaDeTela20240904170">
+    		
+    		<div class="wireframe-1-child7">
+    		</div>
+    		<img class="astrophotographers-to-follow-i-icon" alt="banener final" src="https://github.com/Camilasimoes1/nasa/blob/main/3daa516f835cf710eb46540f5635c58b5da6424c.jpg?raw=true">
+    		
+    		<div class="line-div">
+    		</div>
+    		<div class="educao">Educação</div>
+    		<div class="estagirio">estagiário</div>
+    		<div class="aprender">Aprender</div>
+    		<div class="ensinar">ensinar</div>
+    		<div class="notcias">notícias</div>
+    		<div class="eventos">Eventos</div>
+    		<div class="compartilhar">Compartilhar</div>
+    		<div class="nasa-ostem">NASA OSTEM</div>
+    		<img class="captura-de-tela-2024-09-03-220" alt="logo" src="https://github.com/Camilasimoes1/nasa/blob/main/1981642c30af46f2fcd44c9a9c6ea161bc223ec2.png?raw=true">
+    		
+    		<div class="wireframe-1-child8">
+    		</div>
+    		<div class="wireframe-1-child9">
+    		</div>
+    		<b class="login">LOGIN</b>
+    		<div class="wireframe-1-child10">
+    		</div>
+    		<img class="captura-de-tela-2024-09-04-1701" alt="video2" src="https://github.com/Camilasimoes1/nasa/blob/main/e757f1c3c6615d77d2c7a9cdf6b63a82a2421c22.png?raw=true">
+    		
+    		<div class="wireframe-1-child11">
+    		</div>
+    		<img class="captura-de-tela-2024-09-04-1702" alt="video3" src="https://github.com/Camilasimoes1/nasa/blob/main/d011ca1f8c8424ef1f77d445f9a477c8232c920d.png?raw=true">
+    		
+    		<div class="wireframe-1-child12">
+    		</div>
+    		<b class="conhea-mais">Conheça mais </b>
+    		
+    		
+    		<div class="videos">Videos</div>
+    		<div class="atividades">Atividades</div>
+    		<img class="jupiter-removebg-preview-1-icon" alt="" src="https://github.com/Camilasimoes1/nasa/blob/main/828cd2b6312d0ff8ccb9ab61d482f8384d589f50.png?raw=true">
+    		
+    		<div class="sries-k-2">Séries K-2</div>
+    		<div class="wireframe-1-child13">
+    		</div>
+    		<div class="sries-3-5">Séries 3-5</div>
+    		<div class="wireframe-1-child14">
+    		</div>
+    		<div class="sries-6-8">Séries 6-8</div>
+    		<div class="wireframe-1-child15">
+    		</div>
+    		<div class="sries-9-12">Séries 9-12</div>
+    		<div class="voc-est-interessado">Você está interessado em espaço, robôs, construção e exploração? No Laboratório de Propulsão a Jato da NASA, construímos robôs que exploram o espaço e você pode explorar o espaço conosco em casa! Encontre projetos para construir um rover de papelão, assista a vídeos sobre pouso em Marte, construa sua própria missão espacial e aprenda algo novo sobre a Lua. Além disso, explore mais nos links abaixo!</div>
+    		<img class="captura-de-tela-2024-09-04-193" alt="foto2" src="https://github.com/Camilasimoes1/nasa/blob/main/0f83b5884f2a12f83e225af3956cfe709b195a4d.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-04-1931" alt="foto3" src="https://github.com/Camilasimoes1/nasa/blob/main/6a53cf3341efdbb8c7b50c415060138a038eca03.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-04-1932" alt="foto4" src="https://github.com/Camilasimoes1/nasa/blob/main/bc13a3b585c427cd7449a49eadb3a22ca77feaf4.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-04-1933" alt="foto5" src="https://github.com/Camilasimoes1/nasa/blob/main/1c3aee600938f261ede8092b652c383d7f6e190e.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-04-1934" alt="foto6" src="https://github.com/Camilasimoes1/nasa/blob/main/060760e4bd4a631405f14e70521bdd0a0ee20b36.png?raw=true">
+    		
+    		<div class="wireframe-1-child16">
+    		</div>
+    		<img class="captura-de-tela-2024-09-04-1935" alt="foto1" src="https://github.com/Camilasimoes1/nasa/blob/main/6439e1d1ba1db92f486db2b440bd3a7545b1a924.png?raw=true">
+    		
+    		<div class="faa-um-sistema">Faça um sistema solar em escala</div>
+    		<div class="desafio-estudantil-da">Desafio estudantil da missão a Marte</div>
+    		<div class="construa-com-espaguete">Construa com espaguete</div>
+    		<div class="construa-um-rover">Construa um rover e muito mais com formas</div>
+    		<div class="tamanho-e-distncia">Tamanho e distância do sistema solar</div>
+    		<div class="construa-um-foguete">Construa um foguete e muito mais com formas</div>
+    		<div class="vamos-explorar-juntos">Vamos explorar juntos</div>
+    		<div class="wireframe-1-child17">
+    		</div>
+    		<div class="comear">COMEÇAR</div>
+    		<div class="perguntas-frequentes">Perguntas frequentes </div>
+    		<div class="como-posso-gerenciar">Como posso gerenciar o aprendizado do meu filho enquanto trabalho em casa?</div>
+    		<div class="tenho-filhos-de">Tenho filhos de idades variadas. Como posso envolvê-los todos?</div>
+    		<div class="wireframe-1-child18">
+    		</div>
+    		<div class="wireframe-1-child19">
+    		</div>
+    		<div class="wireframe-1-child20">
+    		</div>
+    		<div class="se-eu-no">Se eu não posso chegar a tudo, o que é mais importante?</div>
+    		<div class="e-se-eu">E se eu não tiver todos os materiais listados para uma atividade?</div>
+    		<div class="wireframe-1-child21">
+    		</div>
+    		<div class="wireframe-1-child22">
+    		</div>
+    		<div class="que-perguntas-devo">Que perguntas devo fazer ao meu filho sobre o que ele está fazendo?</div>
+    		<div class="como-saberei-quando">Como saberei quando meu filho tem a resposta certa?</div>
+    		<div class="explore-a-maravilha">Explore a maravilha da exploração espacial em casa. Aqui você pode descobrir como fazer foguetes, rovers de Marte e módulos de pouso lunares com materiais que você tem em casa. Role para baixo para explorar atividades educacionais que as famílias podem fazer em casa, tutoriais em vídeo (disponíveis com legendas em espanhol) e um FAQ. Certifique-se de verificar novamente. Estamos adicionando mais o tempo todo!</div>
+  	</div>
+  	
+  	<style>
+        .wireframe-1-child {
+  	position: absolute;
+  	top: 4206px;
+  	left: 1027px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	border: 5px solid #263976;
+  	box-sizing: border-box;
+  	width: 378px;
+  	height: 454px;
+}
+.wireframe-1-item {
+  	position: absolute;
+  	top: 4206px;
+  	left: 573px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	border: 5px solid #263976;
+  	box-sizing: border-box;
+  	width: 378px;
+  	height: 454px;
+}
+.wireframe-1-inner {
+  	position: absolute;
+  	top: 4206px;
+  	left: 119px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	border: 5px solid #263976;
+  	box-sizing: border-box;
+  	width: 378px;
+  	height: 454px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 3680px;
+  	left: 1027px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	border: 5px solid #263976;
+  	box-sizing: border-box;
+  	width: 378px;
+  	height: 454px;
+}
+.wireframe-1-child1 {
+  	position: absolute;
+  	top: 3680px;
+  	left: 573px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	border: 5px solid #263976;
+  	box-sizing: border-box;
+  	width: 378px;
+  	height: 454px;
+}
+.wireframe-1-child2 {
+  	position: absolute;
+  	top: 2930px;
+  	left: 175px;
+  	box-shadow: 44.900001525878906px -44.900001525878906px 44.9px rgba(46, 0, 105, 0.1) inset, -44.900001525878906px 44.900001525878906px 44.9px rgba(255, 255, 255, 0.1) inset;
+  	backdrop-filter: blur(89.8px);
+  	border-radius: 18px;
+  	background-color: rgba(38, 57, 118, 0.29);
+  	width: 399px;
+  	height: 112px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 2731px;
+  	left: 794.91px;
+  	border-radius: 50%;
+  	background-color: #000;
+  	border: 6px solid #fff;
+  	box-sizing: border-box;
+  	width: 732.4px;
+  	height: 183.2px;
+  	transform:  rotate(25.9deg);
+  	transform-origin: 0 0;
+}
+.wireframe-1-child3 {
+  	position: absolute;
+  	top: 3053.15px;
+  	left: 710px;
+  	border-radius: 50%;
+  	background-color: #000;
+  	border: 6px solid #fff;
+  	box-sizing: border-box;
+  	width: 732.4px;
+  	height: 183.2px;
+  	transform:  rotate(-28deg);
+  	transform-origin: 0 0;
+}
+.wireframe-1-child4 {
+  	position: absolute;
+  	top: 2688px;
+  	left: 811px;
+  	border-radius: 50%;
+  	background-color: #000;
+  	border: 6px solid #fff;
+  	box-sizing: border-box;
+  	width: 546px;
+  	height: 537px;
+}
+.wireframe-1-child5 {
+  	position: absolute;
+  	top: 1803px;
+  	left: 122px;
+  	border-radius: 18px;
+  	background-color: #000;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 612px;
+  	height: 392px;
+}
+.moon-space-black-background-25-icon {
+  	position: absolute;
+  	top: 259px;
+  	left: 28px;
+  	width: 1490px;
+  	height: 513px;
+  	object-fit: contain;
+    transform: rotate(180deg);
+}
+.espao-de-aprendizagem {
+  	margin: 0;
+}
+.espao-de-aprendizagem-container {
+  	position: absolute;
+  	top: 826px;
+  	left: 480px;
+  	font-size: 48px;
+  	font-family: 'Jockey One';
+  	display: inline-block;
+  	width: 563px;
+}
+.wireframe-1-child6 {
+  	position: absolute;
+  	top: 1077px;
+  	left: 166px;
+  	box-shadow: 44.900001525878906px -44.900001525878906px 44.9px rgba(46, 0, 105, 0.1) inset, -44.900001525878906px 44.900001525878906px 44.9px rgba(255, 255, 255, 0.1) inset;
+  	backdrop-filter: blur(89.8px);
+  	background-color: rgba(235, 235, 235, 0.39);
+  	width: 1192px;
+  	height: 563px;
+}
+.r-12-icon {
+  	position: absolute;
+  	top: 1002px;
+  	left: 204px;
+  	width: 432px;
+  	height: 600px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-04-170 {
+  	position: absolute;
+  	top: 1849px;
+  	left: 175px;
+  	border-radius: 18px;
+  	width: 507px;
+  	height: 300px;
+  	object-fit: cover;
+  	cursor: pointer;
+}
+.wireframe-1-child7 {
+  	position: absolute;
+  	top: 3330px;
+  	left: 174px;
+  	box-shadow: 0px 1px 9.9px #fff;
+  	border-radius: 6px;
+  	background-color: #d9d9d9;
+  	width: 239px;
+  	height: 80px;
+}
+.astrophotographers-to-follow-i-icon {
+  	position: absolute;
+  	top: 4818px;
+  	left: 164px;
+  	width: 1196px;
+  	height: 408px;
+  	object-fit: cover;
+}
+.line-div {
+  	position: absolute;
+  	top: 5585.5px;
+  	left: 225.5px;
+  	border-top: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 989px;
+  	height: 5px;
+}
+.educao {
+  	position: absolute;
+  	top: 139px;
+  	left: 195px;
+  	line-height: 121.9%;
+}
+.estagirio {
+  	position: absolute;
+  	top: 139px;
+  	left: 337px;
+  	line-height: 121.9%;
+}
+.aprender {
+  	position: absolute;
+  	top: 140px;
+  	left: 477px;
+  	line-height: 121.9%;
+}
+.ensinar {
+  	position: absolute;
+  	top: 140px;
+  	left: 613px;
+  	line-height: 121.9%;
+}
+.notcias {
+  	position: absolute;
+  	top: 140px;
+  	left: 727px;
+  	line-height: 121.9%;
+}
+.eventos {
+  	position: absolute;
+  	top: 140px;
+  	left: 845px;
+  	line-height: 121.9%;
+}
+.compartilhar {
+  	position: absolute;
+  	top: 140px;
+  	left: 965px;
+  	line-height: 121.9%;
+}
+.nasa-ostem {
+  	position: absolute;
+  	top: 139px;
+  	left: 1144px;
+  	line-height: 121.9%;
+}
+.captura-de-tela-2024-09-03-220 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 417px;
+  	height: 100px;
+  	object-fit: cover;
+}
+.wireframe-1-child8 {
+  	position: absolute;
+  	top: 203.52px;
+  	left: 268.5px;
+  	border-top: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 959px;
+  	height: 3px;
+}
+.wireframe-1-child9 {
+  	position: absolute;
+  	top: 35px;
+  	left: 1254px;
+  	border-radius: 21px;
+  	background-color: #263976;
+  	width: 196px;
+  	height: 66px;
+}
+.login {
+  	position: absolute;
+  	top: 54px;
+  	left: 1315px;
+  	line-height: 121.9%;
+}
+.wireframe-1-child10 {
+  	position: absolute;
+  	top: 1803px;
+  	left: 789px;
+  	border-radius: 18px;
+  	background-color: #000;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 612px;
+  	height: 392px;
+}
+.captura-de-tela-2024-09-04-1701 {
+  	position: absolute;
+  	top: 1849px;
+  	left: 841px;
+  	border-radius: 18px;
+  	width: 507px;
+  	height: 300px;
+  	object-fit: cover;
+}
+.wireframe-1-child11 {
+  	position: absolute;
+  	top: 2251px;
+  	left: 122px;
+  	border-radius: 18px;
+  	background-color: #000;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 612px;
+  	height: 392px;
+}
+.captura-de-tela-2024-09-04-1702 {
+  	position: absolute;
+  	top: 2297px;
+  	left: 175px;
+  	border-radius: 18px;
+  	width: 507px;
+  	height: 300px;
+  	object-fit: cover;
+}
+.wireframe-1-child12 {
+  	position: absolute;
+  	top: 2378px;
+  	left: 869px;
+  	box-shadow: 44.900001525878906px -44.900001525878906px 44.9px rgba(46, 0, 105, 0.1) inset, -44.900001525878906px 44.900001525878906px 44.9px rgba(255, 255, 255, 0.1) inset;
+  	backdrop-filter: blur(89.8px);
+  	border-radius: 18px;
+  	background-color: rgba(38, 57, 118, 0.29);
+  	width: 392px;
+  	height: 110px;
+}
+.conhea-mais {
+  	position: absolute;
+  	top: 2415px;
+  	left: 932px;
+  	line-height: 121.9%;
+  	display: inline-block;
+  	width: 211px;
+  	height: 36px;
+}
+.arrow-icon {
+  	position: absolute;
+  	top: 2433px;
+  	left: 1157px;
+  	max-height: 100%;
+  	width: 48px;
+}
+.videos {
+  	position: absolute;
+  	top: 1678px;
+  	left: 702px;
+  	font-size: 48px;
+  	font-family: 'Jockey One';
+}
+.atividades {
+  	position: absolute;
+  	top: 2949px;
+  	left: 292px;
+  	font-size: 40px;
+  	font-family: 'Jockey One';
+  	display: inline-block;
+  	width: 165px;
+  	height: 55px;
+}
+.jupiter-removebg-preview-1-icon {
+  	position: absolute;
+  	top: 2688px;
+  	left: 816px;
+  	width: 541px;
+  	height: 527px;
+  	object-fit: cover;
+}
+.sries-k-2 {
+  	position: absolute;
+  	top: 3348px;
+  	left: 197px;
+  	font-size: 36px;
+  	font-family: 'Istok Web';
+  	color: #000;
+  	display: inline-block;
+  	width: 192px;
+  	height: 39px;
+}
+.wireframe-1-child13 {
+  	position: absolute;
+  	top: 3330px;
+  	left: 486px;
+  	box-shadow: 0px 1px 9.9px #fff;
+  	border-radius: 6px;
+  	background-color: rgba(38, 57, 118, 0.29);
+  	width: 239px;
+  	height: 80px;
+}
+.sries-3-5 {
+  	position: absolute;
+  	top: 3345px;
+  	left: 509px;
+  	font-size: 36px;
+  	font-family: 'Istok Web';
+  	display: inline-block;
+  	width: 192px;
+  	height: 39px;
+}
+.wireframe-1-child14 {
+  	position: absolute;
+  	top: 3330px;
+  	left: 798px;
+  	box-shadow: 0px 1px 9.9px #fff;
+  	border-radius: 6px;
+  	background-color: rgba(38, 57, 118, 0.29);
+  	width: 239px;
+  	height: 80px;
+}
+.sries-6-8 {
+  	position: absolute;
+  	top: 3345px;
+  	left: 822px;
+  	font-size: 36px;
+  	font-family: 'Istok Web';
+  	display: inline-block;
+  	width: 192px;
+  	height: 39px;
+}
+.wireframe-1-child15 {
+  	position: absolute;
+  	top: 3330px;
+  	left: 1110px;
+  	box-shadow: 0px 1px 9.9px #fff;
+  	border-radius: 6px;
+  	background-color: rgba(38, 57, 118, 0.29);
+  	width: 239px;
+  	height: 80px;
+}
+.sries-9-12 {
+  	position: absolute;
+  	top: 3348px;
+  	left: 1135px;
+  	font-size: 36px;
+  	font-family: 'Istok Web';
+  	display: inline-block;
+  	width: 192px;
+  	height: 39px;
+}
+.voc-est-interessado {
+  	position: absolute;
+  	top: 3478px;
+  	left: 215px;
+  	display: inline-block;
+  	width: 1094px;
+  	height: 134px;
+}
+.captura-de-tela-2024-09-04-193 {
+  	position: absolute;
+  	top: 3692px;
+  	left: 585px;
+  	border-radius: 13px;
+  	width: 354px;
+  	height: 209px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-04-1931 {
+  	position: absolute;
+  	top: 3692px;
+  	left: 1039px;
+  	border-radius: 13px;
+  	width: 354px;
+  	height: 209px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-04-1932 {
+  	position: absolute;
+  	top: 4214px;
+  	left: 131px;
+  	border-radius: 13px;
+  	width: 354px;
+  	height: 209px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-04-1933 {
+  	position: absolute;
+  	top: 4214px;
+  	left: 585px;
+  	border-radius: 13px;
+  	width: 354px;
+  	height: 209px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-04-1934 {
+  	position: absolute;
+  	top: 4214px;
+  	left: 1039px;
+  	border-radius: 13px;
+  	width: 354px;
+  	height: 209px;
+  	object-fit: cover;
+}
+.wireframe-1-child16 {
+  	position: absolute;
+  	top: 3680px;
+  	left: 119px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	border: 5px solid #263976;
+  	box-sizing: border-box;
+  	width: 378px;
+  	height: 454px;
+}
+.captura-de-tela-2024-09-04-1935 {
+  	position: absolute;
+  	top: 3692px;
+  	left: 131px;
+  	border-radius: 13px;
+  	width: 354px;
+  	height: 196px;
+  	object-fit: cover;
+}
+.faa-um-sistema {
+  	position: absolute;
+  	top: 3950px;
+  	left: 166px;
+  	font-size: 36px;
+  	font-family: Exo;
+  	color: #000;
+  	display: inline-block;
+  	width: 284px;
+}
+.desafio-estudantil-da {
+  	position: absolute;
+  	top: 3950px;
+  	left: 612px;
+  	font-size: 36px;
+  	font-family: Exo;
+  	color: #000;
+  	display: inline-block;
+  	width: 300px;
+  	height: 143px;
+}
+.construa-com-espaguete {
+  	position: absolute;
+  	top: 4485px;
+  	left: 175px;
+  	font-size: 36px;
+  	font-family: Exo;
+  	color: #000;
+  	display: inline-block;
+  	width: 267px;
+}
+.construa-um-rover {
+  	position: absolute;
+  	top: 3950px;
+  	left: 1048px;
+  	font-size: 36px;
+  	font-family: Exo;
+  	color: #000;
+  	display: inline-block;
+  	width: 335px;
+  	height: 132px;
+}
+.tamanho-e-distncia {
+  	position: absolute;
+  	top: 4472px;
+  	left: 628px;
+  	font-size: 36px;
+  	font-family: Exo;
+  	color: #000;
+  	display: inline-block;
+  	width: 268px;
+  	height: 128px;
+}
+.construa-um-foguete {
+  	position: absolute;
+  	top: 4465px;
+  	left: 1068px;
+  	font-size: 36px;
+  	font-family: Exo;
+  	color: #000;
+  	display: inline-block;
+  	width: 296px;
+  	height: 139px;
+}
+.vamos-explorar-juntos {
+  	position: absolute;
+  	top: 4901px;
+  	left: 386px;
+  	font-size: 64px;
+  	font-family: 'Doppio One';
+  	display: inline-block;
+  	width: 752px;
+  	height: 80px;
+}
+.wireframe-1-child17 {
+  	position: absolute;
+  	top: 5030px;
+  	left: 619px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	width: 285px;
+  	height: 96px;
+}
+.comear {
+  	position: absolute;
+  	top: 5055px;
+  	left: 681px;
+  	font-size: 36px;
+  	font-family: 'Doppio One';
+  	color: #000;
+}
+.perguntas-frequentes {
+  	position: absolute;
+  	top: 5375px;
+  	left: 566px;
+  	font-size: 36px;
+  	font-family: 'Jockey One';
+  	display: inline-block;
+  	width: 308px;
+  	height: 64px;
+}
+.como-posso-gerenciar {
+  	position: absolute;
+  	top: 5511px;
+  	left: 256px;
+  	font-family: 'Jockey One';
+}
+.tenho-filhos-de {
+  	position: absolute;
+  	top: 5631px;
+  	left: 256px;
+  	font-family: 'Jockey One';
+}
+.wireframe-1-child18 {
+  	position: absolute;
+  	top: 5721.5px;
+  	left: 225.5px;
+  	border-top: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 989px;
+  	height: 5px;
+}
+.wireframe-1-child19 {
+  	position: absolute;
+  	top: 5845.5px;
+  	left: 225.5px;
+  	border-top: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 989px;
+  	height: 5px;
+}
+.wireframe-1-child20 {
+  	position: absolute;
+  	top: 5969.5px;
+  	left: 225.5px;
+  	border-top: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 989px;
+  	height: 5px;
+}
+.se-eu-no {
+  	position: absolute;
+  	top: 5767px;
+  	left: 256px;
+  	font-family: 'Jockey One';
+}
+.e-se-eu {
+  	position: absolute;
+  	top: 5895px;
+  	left: 256px;
+  	font-family: 'Jockey One';
+}
+.wireframe-1-child21 {
+  	position: absolute;
+  	top: 6217.5px;
+  	left: 225.5px;
+  	border-top: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 989px;
+  	height: 5px;
+}
+.wireframe-1-child22 {
+  	position: absolute;
+  	top: 6099.5px;
+  	left: 225.5px;
+  	border-top: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 989px;
+  	height: 5px;
+}
+.que-perguntas-devo {
+  	position: absolute;
+  	top: 6019px;
+  	left: 256px;
+  	font-family: 'Jockey One';
+}
+.como-saberei-quando {
+  	position: absolute;
+  	top: 6145px;
+  	left: 256px;
+  	font-family: 'Jockey One';
+}
+.explore-a-maravilha {
+  	position: absolute;
+  	top: 1159px;
+  	left: 679px;
+  	font-size: 32px;
+  	font-family: JejuGothic;
+  	display: inline-block;
+  	width: 634px;
+  	height: 419px;
+}
+.wireframe-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #000;
+  	height: 6520px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 24px;
+  	color: #fff;
+  	font-family: 'Instrument Sans';
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+    </style>
+  	
+  	
+  	<script>
+    		var capturaDeTela20240904170 = document.getElementById("capturaDeTela20240904170");
+    		if(capturaDeTela20240904170) {
+      			capturaDeTela20240904170.addEventListener("click", function () {
+        				window.open("https://www.youtube.com/watch?v=qnmXZfIpGk8&list=PL9TFrgFq7555x7XDnV4uKx1qFYPGd2ekf&t=4s");
+      			});
+    		}</script></body>
+</html>
